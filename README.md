@@ -2,7 +2,7 @@
 
 This repository is meant to house all my learning on Time Series Analysis & Forecasting
 
-Content:
+## Content:
 
 1. Time Series Analysis & Forecasting - Theory
 2. Time Series with Python (Manipulation & Visualization)
